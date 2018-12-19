@@ -31,3 +31,10 @@ function currentLine(line){
     return message;
   }
 }
+
+function deliWheel(){
+  var  i = 0;
+  i = i++;
+  return i; 
+}
+}
