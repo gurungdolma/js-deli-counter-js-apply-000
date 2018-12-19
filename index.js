@@ -31,9 +31,8 @@ function currentLine(line){
     return message;
   }
 }
-
+ var  i = 0;
 function deliWheel(){
-  var  i = 0;
   i  = i + 1;
   return i;
 }
