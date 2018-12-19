@@ -34,6 +34,7 @@ function currentLine(line){
 
 function deliWheel(){
   var  i = 1;
-  deliWheel(i++);
+  i  = i + 1;
+  return i;
 }
 }
