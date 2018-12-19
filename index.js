@@ -33,8 +33,7 @@ function currentLine(line){
 }
 
 function deliWheel(){
-  var  i = 0;
-  i = i++;
-  return i; 
+  var  i = 1;
+  deliWheel(i++);
 }
 }
